@@ -1,7 +1,20 @@
-## Hi there 👋
+## Hello World! 👋
+
+### ✨ Using Platform
+- Unity
+- REDBRICK Studio (Javascript)
+
+### ✨ Working Category
+- Game Client
+
+### 😄 I like...
+- FPS Games (Valorant, The Finals..) 🎮
+- CO-OP Games (Helldivers 2, Space Marine 2..) 🎮
+- Weight Training 🏋️‍♂️ / Running 🏃‍♂️
+- Listening Music 🎧
 
 <!--
-**IndiaInk10/IndiaInk10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
